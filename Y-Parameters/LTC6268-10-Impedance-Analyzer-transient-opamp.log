@@ -1,0 +1,70 @@
+Circuit: * C:\Users\Dimitris\Desktop\LTSpice_Workspace\Y-Parameters\LTC6268-10-Impedance-Analyzer-transient-opamp.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+Gmin = 0.132923
+Gmin = 0.0142725
+Gmin = 0.0015325
+Gmin = 0.00016455
+Gmin = 1.76685e-005
+Gmin = 1.89714e-006
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.32832e-006
+vernier = 0.0833333
+Gmin = 1.10316e-006
+vernier = 0.111111
+vernier = 0.148148
+Gmin = 8.09223e-007
+vernier = 0.197531
+vernier = 0.263374
+Gmin = 4.96009e-007
+vernier = 0.351165
+Gmin = 2.31975e-007
+vernier = 0.175583
+vernier = 0.23411
+Gmin = 1.62141e-007
+vernier = 0.312147
+vernier = 0.416196
+Gmin = 7.56329e-008
+vernier = 0.554928
+Gmin = 2.33469e-008
+vernier = 0.739903
+vernier = 0.986537
+Gmin = 3.49153e-009
+vernier = 1
+Gmin = 3.76927e-010
+Gmin = 4.04722e-011
+Gmin = 4.34567e-012
+Gmin = 4.66613e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Mar 29 19:38:16 2021
+Total elapsed time: 44.250 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2410260
+traniter = 2408647
+tranpoints = 898767
+accept = 632164
+rejected = 266603
+matrix size = 67
+fillins = 125
+solver = Normal
+Thread vector: 10.4/5.0[6] 3.9/2.2[6] 2.1/1.8[2] 0.2/0.7[1]  2592/500
+Matrix Compiler1: 12.89 KB object code size  1.7/0.9/[0.5]
+Matrix Compiler2: 9.63 KB object code size  0.8/0.9/[0.3]
+
